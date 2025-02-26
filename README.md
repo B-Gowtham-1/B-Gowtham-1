@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Devops and Cloud**
 
-- 👨‍💻 All of my projects are available at [https://gowthamportfolio2005.netlify.app/](https://gowthamportfolio2005.netlify.app/)
+
 
 - 📫 How to reach me **gowthamsasuke2005@gmail.com**
 
